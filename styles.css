@@ -6,15 +6,16 @@
 
 
 body{
-    background-color: blueviolet;
+    background-color: #101010;
 }
 
 h1{
     margin-top: -36px;
+    color: #ffffff;
 }
 
 .painel{
-    background-color: pink;
+    background-color: #0d0e12;
     height: 542px;
     width: 467px;
     text-align: center;
@@ -23,7 +24,7 @@ h1{
     padding-top: 50px;
     font-family: 'Times New Roman', Times, serif;
     margin-top: 43px;
-    box-shadow: -1px -8px 18px 18px #2f226fd6;
+    box-shadow: -1px -8px 18px 18px #75657254;
 }
 
 img{
@@ -34,6 +35,8 @@ img{
     align-items: center;
     margin:auto;
     margin-top: 24px;
+    border-radius: 7px;
+    box-shadow: -1px -8px 18px 18px #ffffff0d;
 }
 
 #sim{
@@ -44,7 +47,7 @@ img{
     cursor: pointer;
     background: black;
     color: #ffffff;
-    box-shadow: -1px 1px 11px #2f0251d6;
+    box-shadow: -1px 1px 11px #c0b2cbd6;
     margin-top: 8px;
     margin-left: -77px;
     margin-right: 10px;
@@ -58,7 +61,7 @@ img{
     cursor: pointer;
     background: black;
     color: #ffffff;
-    box-shadow: -1px 1px 11px #2f0251d6;
+    box-shadow: -1px 1px 11px #c0b2cbd6;
     margin-top: 8px;
     position: absolute;
 
@@ -75,4 +78,5 @@ img{
 h5{
     font-size: 22px;
     margin-top: 5px;
+    color: #ffffff;
 }
